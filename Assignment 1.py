@@ -36,3 +36,14 @@ last_name = "kumar"
 full_name = first_name + " " + last_name
 
 # 3. Print personalized greeting
+# Task 2: Create a Personalized Greeting
+
+# 1. Assign first name and last name
+first_name = "Deepak"
+last_name = "kumar"
+
+# 2. Concatenate into full name
+full_name = first_name + " " + last_name
+
+# 3. Print personalized greeting
+print("Hello, " + full_name + "! Welcome to Python programming.")
