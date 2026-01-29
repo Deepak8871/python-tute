@@ -1,0 +1,26 @@
+# Assignment 3: Functions & Modules in Python
+
+## Description
+This repository contains Python programs for Assignment 3 from Module 4: Functions & Modules in Python.
+
+## Task 1: Factorial Using a Function
+- File: factorial.py
+- Defines a function named `factorial()`
+- Calculates factorial using a loop
+- Returns and prints the result
+
+## Task 2: Math Module Calculations
+- File: math_operations.py
+- Takes user input
+- Uses Python's `math` module to calculate:
+  - Square root
+  - Natural logarithm
+  - Sine (in radians)
+- Includes basic error handling
+
+## How to Run
+1. Clone the repository
+2. Run the scripts using:
+   ```bash
+   python factorial.py
+   python math_operations.py
